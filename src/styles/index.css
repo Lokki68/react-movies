@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'font-1';
+  src: url(../assets/fonts/Dongle-Regular.ttf);
+}
+@font-face {
+  font-family: 'font-2';
+  src: url(../assets/fonts/Dongle-Light.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'font-1', sans-serif;
+}
+
+body {
+  background-color: #212040;
+  color: #fff;
+}
+
+li {
+  list-style: none;
+}
+
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

@@ -1,0 +1,9 @@
+.user-list-page h2 {
+  text-align: center;
+  font-size: 1.9rem;
+  letter-spacing: 1px;
+}
+
+.user-list-page span {
+  font-size: 1.3rem;
+}
